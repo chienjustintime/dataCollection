@@ -29,11 +29,10 @@ Written in ASP.NET Core.
 - Entity Framework Core
 - .NET Core Native DI
 - AutoMapper
+- Swagger UI
 - FluentValidator
 - MediatR
-- Swagger UI
-- High customizable
-- Translation for 7 different languages
+
 
 
 # Architecture
