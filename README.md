@@ -1,14 +1,12 @@
 # Data-Collection 
-the main purpose of this side project is to design web api to collect and process heterogeneous data for monitoring, analyzing and providing suggestions
-<!-- The main goal of project is to be a Management Ecosystem for IdentityServer4. Helping Startup's and Organization to Speed Up the Setup of User Management. Helping teams and entrepreneurs to achieve the company's primary purpose: Maximize shareholder value. -->
+the main goal of this side project is to design web api to collect and process heterogeneous data for monitoring, analyzing and providing energy implementation suggestions
 
 # Table of Contents 
 - [Data-Collection](#data-collection)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Technologies](#technologies)
-- [Architecture](#architecture)
-- [What comes next?](#what-comes-next)
+- [Architecture(ToDo)](#architecturetodo)
 - [License](#license)
 
 
@@ -35,24 +33,18 @@ Written in ASP.NET Core.
 
 
 
-# Architecture
-
+# Architecture(ToDo)
 - Architecture with responsibility separation concerns, SOLID and Clean Code
 - Domain Driven Design (Layers and Domain Model Pattern)
-- Domain Events
-- Domain Notification
 - CQRS (Imediate Consistency)
-- Event Sourcing
 - Unit of Work
 - Repository and Generic Repository
+- E-mail notification
+- Authentication and Authorization through Indentity Server
+- Open Api and swagger documentation
 
-
-# What comes next?
-
-* UI for visualization 
-* E-mail notification
-* authentication and authorization 
 
 # License
+MIT
 
 
