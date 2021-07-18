@@ -5,6 +5,7 @@ the main goal of this side project is to design web api to collect and process h
 - [Data-Collection](#data-collection)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
+- [Scripts To Run](#scripts-to-run)
 - [Technologies](#technologies)
 - [Architecture(ToDo)](#architecturetodo)
 - [License](#license)
@@ -16,22 +17,23 @@ Check the installation instructions below.
 2. run initialization commands
 3. sample code and instructions
 
+# Scripts To Run
+``` bash
+
+```
+
 
 # Technologies 
 
 Check below how it was developed.
 
-Written in ASP.NET Core.
-
-- ASP .NET Core 3.1
-- Entity Framework Core
+- ASP .NET Core 5
+- Entity Framework Core 5
 - .NET Core Native DI
 - AutoMapper
 - Swagger UI
-- FluentValidator
 - MediatR
-
-
+- postgreSql
 
 # Architecture(ToDo)
 - Architecture with responsibility separation concerns, SOLID and Clean Code
@@ -39,9 +41,11 @@ Written in ASP.NET Core.
 - CQRS (Imediate Consistency)
 - Unit of Work
 - Repository and Generic Repository
-- E-mail notification
 - Authentication and Authorization through Indentity Server
 - Open Api and swagger documentation
+
+
+
 
 
 # License
